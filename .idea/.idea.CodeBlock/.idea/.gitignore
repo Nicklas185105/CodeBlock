@@ -2,7 +2,7 @@
 /shelf/
 /workspace.xml
 /bin/
-/ob/Debug/
+/obj/Debug/
 # Rider ignored files
 /.idea.CodeBlock.iml
 /modules.xml
